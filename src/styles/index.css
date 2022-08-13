@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --ggb-primary-color: #ee0290; /* used for most UI elements, including the toolbar header and buttons */
+  --ggb-primary-variant-color: #880061; /* used for floating buttons on hover */
+  --ggb-dark-color: #880061; /* used for highlighted text in dialogs */
+  --ggb-light-color: #f186c0; /* used for progress bar */
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
