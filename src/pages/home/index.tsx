@@ -12,7 +12,7 @@ declare var window: any; // ggb全局对象
 
 const Home: React.FC = (props, ref) => {
 
-	const [appName, setAppName] = useState('graphing');
+	const [appName, setAppName] = useState('react');
 	
 
 
